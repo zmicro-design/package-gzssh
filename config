@@ -1,5 +1,5 @@
 #!/bin/bash
 
 export PACKAGE_CORE_NAME="gzssh"
-export PACKAGE_CORE_VERSION=v1.4.14
+export PACKAGE_CORE_VERSION=v1.4.15
 export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/go-zoox/gzssh/releases/download"
