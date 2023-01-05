@@ -1,4 +1,4 @@
 NAME=gzssh
-VERSION=v1.0.36
+VERSION=v1.0.37
 MODULE=package
 DESCRIPTION="Highly opinionated MTPROTO proxy for Telegram"
