@@ -1,4 +1,4 @@
 NAME=gzssh
-VERSION=v1.0.46
+VERSION=v1.0.47
 MODULE=package
 DESCRIPTION="Container SSH, also support host ssh, alternative openssh server and client"
